@@ -1,3 +1,5 @@
-# VoidPlayer-releases
+# Void Player-releases
 
-Void Player releases page
+### Public release repository for Void Player distribution artifacts.
+
+### Download the latest notarized DMG from the Releases page.
