@@ -7,6 +7,6 @@
 
 **Download the latest notarized DMG from the Releases page.**
 
-[![Void Player demo preview](./demo-preview.gif)](./5.mp4)
-
-[Watch the demo video](./5.mp4)
+<video width="1400" controls>
+  <source src="https://raw.githubusercontent.com/leeseomin/VoidPlayer-releases/main/5.mp4" type="video/mp4">
+</video>
