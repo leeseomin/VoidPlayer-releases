@@ -25,8 +25,12 @@
 
 <br>
 
+## Classic Mode
+
 <img src="./23.png" alt="Void Player screenshot" width="1400"> 
 
 <br>
+
+## Neo Mode
 
 <img src="./24.png" alt="Void Player screenshot" width="1400"> 
