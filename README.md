@@ -15,6 +15,16 @@
 <br>
 
 
+## Keyboard Shortcuts
+
+| Shortcut | Action |
+| --- | --- |
+| <kbd>Command</kbd> + <kbd>3</kbd> | Cycle background color |
+| <kbd>Command</kbd> + <kbd>8</kbd> | Switch to next UI mode |
+
+
+<br>
+
 ## Vinyl Mode
 
 <img src="./1.png" alt="Void Player screenshot 2" width="1400">
