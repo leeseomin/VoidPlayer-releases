@@ -27,9 +27,6 @@
 
 ## Vinyl Mode
 
-<img src="./1.png" alt="Void Player screenshot 2" width="1400">
-
-<br>
 
 <img src="./22.png" alt="Void Player screenshot" width="1400"> 
 
