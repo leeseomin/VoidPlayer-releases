@@ -12,3 +12,7 @@
 **Video demo:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
 
 <img src="./void-player-c.png" alt="Void Player screenshot" width="1400">
+
+<br>
+
+<img src="./1.png" alt="Void Player screenshot 2" width="1400">
