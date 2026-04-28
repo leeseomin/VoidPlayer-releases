@@ -14,6 +14,13 @@
 <img src="./1.png" alt="Void Player screenshot 2" width="1400">
 
 <br>
+
+<img src="./22.png" alt="Void Player screenshot" width="1400"> 
+
 <br>
 
-<img src="./void-player-c.png" alt="Void Player screenshot" width="1400"> 
+<img src="./23.png" alt="Void Player screenshot" width="1400"> 
+
+<br>
+
+<img src="./24.png" alt="Void Player screenshot" width="1400"> 
