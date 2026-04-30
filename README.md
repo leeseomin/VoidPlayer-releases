@@ -15,6 +15,12 @@
 <br>
 
 
+
+<img src="./1a.png" alt="Void Player screenshot" width="1400"> 
+
+<br>
+
+
 ## Keyboard Shortcuts
 
 | Shortcut | Action |
@@ -24,6 +30,8 @@
 
 
 <br>
+
+
 
 ## Vinyl Mode
 
