@@ -11,7 +11,7 @@
 
 **Video demo:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
 
-**Supports common local audio formats:** MP3, M4A, WAV, and FLAC
+**Supports common local audio formats:** MP3, M4A, WAV, and FLAC 🎧
 
 <br>
 <br>
