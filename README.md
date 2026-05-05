@@ -56,7 +56,7 @@ You can instantly customize the UI and background color to match your taste.
 
 
 
-## 💿 Vinyl Mode
+## Vinyl Mode
 
 
 <img src="./22.png" alt="Void Player screenshot" width="1400"> 
@@ -67,13 +67,13 @@ You can instantly customize the UI and background color to match your taste.
 
 <br>
 
-## 🎛️ Classic Mode
+## Classic Mode
 
 <img src="./23.png" alt="Void Player screenshot" width="1400"> 
 
 <br>
 
-## 🌌 Neo Mode
+## Neo Mode
 
 <img src="./24.png" alt="Void Player screenshot" width="1400"> 
 
@@ -135,7 +135,7 @@ You can instantly customize the UI and background color to match your taste.
 
 
 
-## 💿 Vinyl Mode
+## Vinyl Mode
 
 
 <img src="./22.png" alt="Void Player 스크린샷" width="1400">
@@ -146,12 +146,12 @@ You can instantly customize the UI and background color to match your taste.
 
 <br>
 
-## 🎛️ Classic Mode
+## Classic Mode
 
 <img src="./23.png" alt="Void Player 스크린샷" width="1400">
 
 <br>
 
-## 🌌 Neo Mode
+## Neo Mode
 
 <img src="./24.png" alt="Void Player 스크린샷" width="1400">
