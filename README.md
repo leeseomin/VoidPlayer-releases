@@ -22,7 +22,7 @@
 
 <br>
 
-**✨ Key Features**
+## ✨ Key Features
 *   **Topic-Based Tabs:** Organize and enjoy music and podcasts by category for a clutter-free experience.
 *   **Dual Shuffle Modes:**
     *   **Top-Right Shuffle:** Reorders the actual tracklist.
