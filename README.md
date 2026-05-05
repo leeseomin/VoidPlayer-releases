@@ -22,14 +22,14 @@
 
 <br>
 
-## Key Features
+## ✨ Key Features
 *   **Topic-Based Tabs:** Organize and enjoy music and podcasts by category for a clutter-free experience.
 *   **Dual Shuffle Modes:**
     *   **Top-Right Shuffle:** Reorders the actual tracklist.
     *   **Bottom Shuffle:** Randomizes playback order while keeping the tracklist intact.
 
 
-## Keyboard Shortcuts
+## ⌨️ Keyboard Shortcuts
 
 You can instantly customize the UI and background color to match your taste.
 
