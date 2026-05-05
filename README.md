@@ -1,8 +1,8 @@
 <a id="english"></a>
 
 <p align="right">
-  <a href="#english"><img alt="English README" src="https://img.shields.io/badge/README-English-111827?style=for-the-badge"></a>
-  <a href="#korean"><img alt="Korean README" src="https://img.shields.io/badge/README-%ED%95%9C%EA%B5%AD%EC%96%B4-ff7a70?style=for-the-badge"></a>
+  <a href="#english"><img alt="English README" src="https://img.shields.io/badge/English-111827?style=for-the-badge"></a>
+  <a href="#korean"><img alt="Korean README" src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-ff7a70?style=for-the-badge"></a>
 </p>
 
 # Void Player-releases
@@ -85,8 +85,8 @@ You can instantly customize the UI and background color to match your taste.
 <a id="korean"></a>
 
 <p align="right">
-  <a href="#english"><img alt="English README" src="https://img.shields.io/badge/README-English-111827?style=for-the-badge"></a>
-  <a href="#korean"><img alt="Korean README" src="https://img.shields.io/badge/README-%ED%95%9C%EA%B5%AD%EC%96%B4-ff7a70?style=for-the-badge"></a>
+  <a href="#english"><img alt="English README" src="https://img.shields.io/badge/English-111827?style=for-the-badge"></a>
+  <a href="#korean"><img alt="Korean README" src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-ff7a70?style=for-the-badge"></a>
 </p>
 
 # Void Player 릴리스
