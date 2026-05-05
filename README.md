@@ -4,6 +4,7 @@
   <a href="#english"><img alt="English README" src="https://img.shields.io/badge/English-111827?style=for-the-badge"></a>
   <a href="#korean"><img alt="Korean README" src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-ff7a70?style=for-the-badge"></a>
   <a href="#japanese"><img alt="Japanese README" src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-f59e0b?style=for-the-badge"></a>
+  <a href="#spanish"><img alt="Spanish README" src="https://img.shields.io/badge/Espa%C3%B1ol-2563eb?style=for-the-badge"></a>
 </p>
 
 # Void Player-releases
@@ -225,3 +226,77 @@ You can instantly customize the UI and background color to match your taste.
 ## Neo Mode
 
 <img src="./24.png" alt="Void Player スクリーンショット" width="1400">
+
+<br>
+<br>
+
+---
+
+<a id="spanish"></a>
+
+# Lanzamientos de Void Player
+
+**Repositorio público de lanzamientos para los archivos de distribución de Void Player.**
+
+**Descarga el DMG más reciente notarizado por Apple desde la página de Releases.**
+
+[![Descargar DMG más reciente](https://img.shields.io/badge/Descargar%20DMG%20m%C3%A1s%20reciente-GitHub%20Releases-ff7a70?style=for-the-badge&logo=github)](https://github.com/leeseomin/VoidPlayer-releases/releases)
+
+**Demo en video:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
+
+**Formatos de audio locales compatibles:** MP3, M4A, WAV y FLAC 🎧
+
+<br>
+<br>
+
+<img src="./1a.png" alt="Captura de pantalla de Void Player" width="1400">
+
+<br>
+
+## ✨ Funciones principales
+*   **Pestañas por tema:** Organiza y disfruta música y podcasts por categoría para una experiencia más limpia.
+*   **Dos modos de reproducción aleatoria:**
+    *   **Aleatorio superior derecho:** Reordena la lista real de pistas.
+    *   **Aleatorio inferior:** Cambia el orden de reproducción sin modificar la lista de pistas.
+
+
+## ⌨️ Atajos de teclado
+
+Puedes personalizar al instante la UI y el color de fondo según tu gusto.
+
+| Atajo | Acción |
+| --- | --- |
+| <kbd>Command</kbd> + <kbd>3</kbd> | Cambiar color de fondo |
+| <kbd>Command</kbd> + <kbd>8</kbd> | Cambiar al siguiente modo de UI |
+
+
+## ⚙️ Información de la app
+
+*   **Ligera:** Creada con **Swift**, con un tamaño de archivo ultraligero de solo **3.8MB**.
+*   **Segura y verificada:** Se distribuye como archivo .dmg **notarizado por Apple**, para una instalación segura y confiable.
+
+
+<br>
+
+
+
+## Vinyl Mode
+
+
+<img src="./22.png" alt="Captura de pantalla de Void Player" width="1400">
+
+<br>
+
+<img src="./25.png" alt="Captura de pantalla de Void Player" width="1400">
+
+<br>
+
+## Classic Mode
+
+<img src="./23.png" alt="Captura de pantalla de Void Player" width="1400">
+
+<br>
+
+## Neo Mode
+
+<img src="./24.png" alt="Captura de pantalla de Void Player" width="1400">
