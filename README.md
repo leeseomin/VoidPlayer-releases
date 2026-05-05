@@ -22,7 +22,7 @@
 
 <br>
 
-## ✨ Key Features
+## Key Features
 *   **Topic-Based Tabs:** Organize and enjoy music and podcasts by category for a clutter-free experience.
 *   **Dual Shuffle Modes:**
     *   **Top-Right Shuffle:** Reorders the actual tracklist.
@@ -37,6 +37,12 @@ You can instantly customize the UI and background color to match your taste.
 | --- | --- |
 | <kbd>Command</kbd> + <kbd>3</kbd> | Cycle background color |
 | <kbd>Command</kbd> + <kbd>8</kbd> | Switch to next UI mode |
+
+
+## ⚙️ App Info
+
+*   **Lightweight:** Built with **Swift** for an ultra-light file size of just **3.8MB**.
+*   **Secure & Verified:** Distributed as an **Apple-notarized** .dmg file, ensuring a safe and reliable installation.
 
 
 <br>
