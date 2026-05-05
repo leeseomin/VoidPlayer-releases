@@ -3,6 +3,7 @@
 <p align="right">
   <a href="#english"><img alt="English README" src="https://img.shields.io/badge/English-111827?style=for-the-badge"></a>
   <a href="#korean"><img alt="Korean README" src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-ff7a70?style=for-the-badge"></a>
+  <a href="#japanese"><img alt="Japanese README" src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-f59e0b?style=for-the-badge"></a>
 </p>
 
 # Void Player-releases
@@ -150,3 +151,77 @@ You can instantly customize the UI and background color to match your taste.
 ## Neo Mode
 
 <img src="./24.png" alt="Void Player 스크린샷" width="1400">
+
+<br>
+<br>
+
+---
+
+<a id="japanese"></a>
+
+# Void Player リリース
+
+**Void Player の配布ファイルを公開するリリース用リポジトリです。**
+
+**最新の Apple 公証済み DMG は Releases ページからダウンロードできます。**
+
+[![最新DMGをダウンロード](https://img.shields.io/badge/%E6%9C%80%E6%96%B0DMG%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-GitHub%20Releases-ff7a70?style=for-the-badge&logo=github)](https://github.com/leeseomin/VoidPlayer-releases/releases)
+
+**動画デモ:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
+
+**対応する主なローカルオーディオ形式:** MP3, M4A, WAV, FLAC 🎧
+
+<br>
+<br>
+
+<img src="./1a.png" alt="Void Player スクリーンショット" width="1400">
+
+<br>
+
+## ✨ 主な機能
+*   **トピック別タブ:** 音楽やポッドキャストをカテゴリごとに整理し、すっきり楽しめます。
+*   **2種類のシャッフルモード:**
+    *   **右上のシャッフル:** 実際のトラックリストの順番を並べ替えます。
+    *   **下部のシャッフル:** トラックリストはそのままに、再生順だけをランダムにします。
+
+
+## ⌨️ キーボードショートカット
+
+好みに合わせて UI と背景色をすぐに切り替えられます。
+
+| ショートカット | 動作 |
+| --- | --- |
+| <kbd>Command</kbd> + <kbd>3</kbd> | 背景色を切り替え |
+| <kbd>Command</kbd> + <kbd>8</kbd> | 次の UI モードに切り替え |
+
+
+## ⚙️ アプリ情報
+
+*   **軽量:** **Swift** で作られており、ファイルサイズは約 **3.8MB** と非常に軽量です。
+*   **安全な配布:** **Apple 公証済み** の .dmg ファイルとして配布されるため、安心してインストールできます。
+
+
+<br>
+
+
+
+## Vinyl Mode
+
+
+<img src="./22.png" alt="Void Player スクリーンショット" width="1400">
+
+<br>
+
+<img src="./25.png" alt="Void Player スクリーンショット" width="1400">
+
+<br>
+
+## Classic Mode
+
+<img src="./23.png" alt="Void Player スクリーンショット" width="1400">
+
+<br>
+
+## Neo Mode
+
+<img src="./24.png" alt="Void Player スクリーンショット" width="1400">
