@@ -5,6 +5,7 @@
   <a href="#korean"><img alt="Korean README" src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-ff7a70?style=for-the-badge"></a>
   <a href="#japanese"><img alt="Japanese README" src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-f59e0b?style=for-the-badge"></a>
   <a href="#spanish"><img alt="Spanish README" src="https://img.shields.io/badge/Espa%C3%B1ol-2563eb?style=for-the-badge"></a>
+  <a href="#chinese"><img alt="Chinese README" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-16a34a?style=for-the-badge"></a>
 </p>
 
 # Void Player-releases
@@ -300,3 +301,77 @@ Puedes personalizar al instante la UI y el color de fondo según tu gusto.
 ## Neo Mode
 
 <img src="./24.png" alt="Captura de pantalla de Void Player" width="1400">
+
+<br>
+<br>
+
+---
+
+<a id="chinese"></a>
+
+# Void Player 发布
+
+**用于发布 Void Player 分发文件的公开发布仓库。**
+
+**可在 Releases 页面下载最新的 Apple 公证 DMG。**
+
+[![下载最新 DMG](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%20DMG-GitHub%20Releases-ff7a70?style=for-the-badge&logo=github)](https://github.com/leeseomin/VoidPlayer-releases/releases)
+
+**视频演示:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
+
+**支持的常见本地音频格式:** MP3、M4A、WAV 和 FLAC 🎧
+
+<br>
+<br>
+
+<img src="./1a.png" alt="Void Player 截图" width="1400">
+
+<br>
+
+## ✨ 主要功能
+*   **基于主题的标签页:** 按类别整理并欣赏音乐和播客，让体验更清爽。
+*   **两种随机播放模式:**
+    *   **右上角随机:** 重新排列实际曲目列表。
+    *   **底部随机:** 保持曲目列表不变，只随机播放顺序。
+
+
+## ⌨️ 键盘快捷键
+
+你可以根据自己的喜好快速切换 UI 和背景颜色。
+
+| 快捷键 | 操作 |
+| --- | --- |
+| <kbd>Command</kbd> + <kbd>3</kbd> | 切换背景颜色 |
+| <kbd>Command</kbd> + <kbd>8</kbd> | 切换到下一个 UI 模式 |
+
+
+## ⚙️ 应用信息
+
+*   **轻量:** 使用 **Swift** 构建，文件大小仅约 **3.8MB**。
+*   **安全且已验证:** 以 **Apple 公证** 的 .dmg 文件分发，安装更安心可靠。
+
+
+<br>
+
+
+
+## Vinyl Mode
+
+
+<img src="./22.png" alt="Void Player 截图" width="1400">
+
+<br>
+
+<img src="./25.png" alt="Void Player 截图" width="1400">
+
+<br>
+
+## Classic Mode
+
+<img src="./23.png" alt="Void Player 截图" width="1400">
+
+<br>
+
+## Neo Mode
+
+<img src="./24.png" alt="Void Player 截图" width="1400">
