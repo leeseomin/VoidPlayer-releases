@@ -76,7 +76,7 @@ You can instantly customize the UI and background color to match your taste.
 
 ## Classic Mode
 
-<img src="./23.png" alt="Void Player screenshot" width="1400"> 
+<img src="./classic.webp" alt="Void Player screenshot" width="1400"> 
 
 <br>
 
