@@ -68,11 +68,9 @@ You can instantly customize the UI and background color to match your taste.
 ## Vinyl Mode
 
 
-<img src="./22.png" alt="Void Player screenshot" width="1400"> 
+<img src="./22.webp" alt="Void Player screenshot" width="1400"> 
 
-<br>
 
-<img src="./25.png" alt="Void Player screenshot" width="1400"> 
 
 <br>
 
