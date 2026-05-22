@@ -82,7 +82,7 @@ You can instantly customize the UI and background color to match your taste.
 
 ## Neo Mode
 
-<img src="./24.png" alt="Void Player screenshot" width="1400"> 
+<img src="./neo.webp" alt="Void Player 스크린샷" width="1400">
 
 <br>
 <br>
