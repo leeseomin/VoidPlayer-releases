@@ -59,6 +59,12 @@ You can instantly customize the UI and background color to match your taste.
 
 
 
+## RetroASCII Mode
+
+<img src="./RetroASCII.webp" alt="Void Player RetroASCII Mode screenshot" width="1400">
+
+<br>
+
 ## Vinyl Mode
 
 
@@ -132,6 +138,12 @@ You can instantly customize the UI and background color to match your taste.
 <br>
 
 
+
+## RetroASCII Mode
+
+<img src="./RetroASCII.webp" alt="Void Player RetroASCII Mode 스크린샷" width="1400">
+
+<br>
 
 ## Vinyl Mode
 
@@ -207,6 +219,12 @@ You can instantly customize the UI and background color to match your taste.
 
 
 
+## RetroASCII Mode
+
+<img src="./RetroASCII.webp" alt="Void Player RetroASCII Mode スクリーンショット" width="1400">
+
+<br>
+
 ## Vinyl Mode
 
 
@@ -281,6 +299,12 @@ Puedes personalizar al instante la UI y el color de fondo según tu gusto.
 
 
 
+## RetroASCII Mode
+
+<img src="./RetroASCII.webp" alt="Captura de pantalla de Void Player RetroASCII Mode" width="1400">
+
+<br>
+
 ## Vinyl Mode
 
 
@@ -354,6 +378,12 @@ Puedes personalizar al instante la UI y el color de fondo según tu gusto.
 <br>
 
 
+
+## RetroASCII Mode
+
+<img src="./RetroASCII.webp" alt="Void Player RetroASCII Mode 截图" width="1400">
+
+<br>
 
 ## Vinyl Mode
 
