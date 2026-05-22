@@ -106,7 +106,7 @@ You can instantly customize the UI and background color to match your taste.
 <br>
 <br>
 
-<img src="./1a.png" alt="Void Player 스크린샷" width="1400">
+<img src="./1b.png" alt="Void Player 스크린샷" width="1400">
 
 <br>
 
@@ -146,17 +146,13 @@ You can instantly customize the UI and background color to match your taste.
 ## Vinyl Mode
 
 
-<img src="./22.png" alt="Void Player 스크린샷" width="1400">
-
-<br>
-
-<img src="./25.png" alt="Void Player 스크린샷" width="1400">
+<img src="./22.webp" alt="Void Player 스크린샷" width="1400">
 
 <br>
 
 ## Classic Mode
 
-<img src="./23.png" alt="Void Player 스크린샷" width="1400">
+<img src="./classic.webp" alt="Void Player 스크린샷" width="1400">
 
 <br>
 
@@ -186,7 +182,7 @@ You can instantly customize the UI and background color to match your taste.
 <br>
 <br>
 
-<img src="./1a.png" alt="Void Player スクリーンショット" width="1400">
+<img src="./1b.png" alt="Void Player スクリーンショット" width="1400">
 
 <br>
 
@@ -226,23 +222,19 @@ You can instantly customize the UI and background color to match your taste.
 ## Vinyl Mode
 
 
-<img src="./22.png" alt="Void Player スクリーンショット" width="1400">
-
-<br>
-
-<img src="./25.png" alt="Void Player スクリーンショット" width="1400">
+<img src="./22.webp" alt="Void Player スクリーンショット" width="1400">
 
 <br>
 
 ## Classic Mode
 
-<img src="./23.png" alt="Void Player スクリーンショット" width="1400">
+<img src="./classic.webp" alt="Void Player スクリーンショット" width="1400">
 
 <br>
 
 ## Neo Mode
 
-<img src="./24.png" alt="Void Player スクリーンショット" width="1400">
+<img src="./neo.webp" alt="Void Player スクリーンショット" width="1400">
 
 <br>
 <br>
@@ -266,7 +258,7 @@ You can instantly customize the UI and background color to match your taste.
 <br>
 <br>
 
-<img src="./1a.png" alt="Captura de pantalla de Void Player" width="1400">
+<img src="./1b.png" alt="Captura de pantalla de Void Player" width="1400">
 
 <br>
 
@@ -306,23 +298,19 @@ Puedes personalizar al instante la UI y el color de fondo según tu gusto.
 ## Vinyl Mode
 
 
-<img src="./22.png" alt="Captura de pantalla de Void Player" width="1400">
-
-<br>
-
-<img src="./25.png" alt="Captura de pantalla de Void Player" width="1400">
+<img src="./22.webp" alt="Captura de pantalla de Void Player" width="1400">
 
 <br>
 
 ## Classic Mode
 
-<img src="./23.png" alt="Captura de pantalla de Void Player" width="1400">
+<img src="./classic.webp" alt="Captura de pantalla de Void Player" width="1400">
 
 <br>
 
 ## Neo Mode
 
-<img src="./24.png" alt="Captura de pantalla de Void Player" width="1400">
+<img src="./neo.webp" alt="Captura de pantalla de Void Player" width="1400">
 
 <br>
 <br>
@@ -346,7 +334,7 @@ Puedes personalizar al instante la UI y el color de fondo según tu gusto.
 <br>
 <br>
 
-<img src="./1a.png" alt="Void Player 截图" width="1400">
+<img src="./1b.png" alt="Void Player 截图" width="1400">
 
 <br>
 
@@ -386,20 +374,16 @@ Puedes personalizar al instante la UI y el color de fondo según tu gusto.
 ## Vinyl Mode
 
 
-<img src="./22.png" alt="Void Player 截图" width="1400">
-
-<br>
-
-<img src="./25.png" alt="Void Player 截图" width="1400">
+<img src="./22.webp" alt="Void Player 截图" width="1400">
 
 <br>
 
 ## Classic Mode
 
-<img src="./23.png" alt="Void Player 截图" width="1400">
+<img src="./classic.webp" alt="Void Player 截图" width="1400">
 
 <br>
 
 ## Neo Mode
 
-<img src="./24.png" alt="Void Player 截图" width="1400">
+<img src="./neo.webp" alt="Void Player 截图" width="1400">
