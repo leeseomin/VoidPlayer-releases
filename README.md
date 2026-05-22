@@ -28,7 +28,7 @@
 
 
 
-<img src="./1a.png" alt="Void Player screenshot" width="1400"> 
+<img src="./1b.png" alt="Void Player screenshot" width="1400"> 
 
 <br>
 
