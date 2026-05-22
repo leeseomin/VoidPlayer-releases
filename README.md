@@ -19,7 +19,7 @@
 
 [![Download Latest DMG](https://img.shields.io/badge/Download%20Latest%20DMG-GitHub%20Releases-ff7a70?style=for-the-badge&logo=github)](https://github.com/leeseomin/VoidPlayer-releases/releases)
 
-**Video demo:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
+**Video demo:** [https://www.youtube.com/watch?v=vE5VrxtTB-Y](https://www.youtube.com/watch?v=vE5VrxtTB-Y)
 
 **Supports common local audio formats:** MP3, M4A, WAV, and FLAC 🎧
 
@@ -99,7 +99,7 @@ You can instantly customize the UI and background color to match your taste.
 
 [![최신 DMG 다운로드](https://img.shields.io/badge/%EC%B5%9C%EC%8B%A0%20DMG%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-GitHub%20Releases-ff7a70?style=for-the-badge&logo=github)](https://github.com/leeseomin/VoidPlayer-releases/releases)
 
-**영상 데모:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
+**영상 데모:** [https://www.youtube.com/watch?v=vE5VrxtTB-Y](https://www.youtube.com/watch?v=vE5VrxtTB-Y)
 
 **지원하는 주요 로컬 오디오 형식:** MP3, M4A, WAV, FLAC 🎧
 
@@ -175,7 +175,7 @@ You can instantly customize the UI and background color to match your taste.
 
 [![最新DMGをダウンロード](https://img.shields.io/badge/%E6%9C%80%E6%96%B0DMG%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-GitHub%20Releases-ff7a70?style=for-the-badge&logo=github)](https://github.com/leeseomin/VoidPlayer-releases/releases)
 
-**動画デモ:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
+**動画デモ:** [https://www.youtube.com/watch?v=vE5VrxtTB-Y](https://www.youtube.com/watch?v=vE5VrxtTB-Y)
 
 **対応する主なローカルオーディオ形式:** MP3, M4A, WAV, FLAC 🎧
 
@@ -251,7 +251,7 @@ You can instantly customize the UI and background color to match your taste.
 
 [![Descargar DMG más reciente](https://img.shields.io/badge/Descargar%20DMG%20m%C3%A1s%20reciente-GitHub%20Releases-ff7a70?style=for-the-badge&logo=github)](https://github.com/leeseomin/VoidPlayer-releases/releases)
 
-**Demo en video:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
+**Demo en video:** [https://www.youtube.com/watch?v=vE5VrxtTB-Y](https://www.youtube.com/watch?v=vE5VrxtTB-Y)
 
 **Formatos de audio locales compatibles:** MP3, M4A, WAV y FLAC 🎧
 
@@ -327,7 +327,7 @@ Puedes personalizar al instante la UI y el color de fondo según tu gusto.
 
 [![下载最新 DMG](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%20DMG-GitHub%20Releases-ff7a70?style=for-the-badge&logo=github)](https://github.com/leeseomin/VoidPlayer-releases/releases)
 
-**视频演示:** [https://youtu.be/buebfHu0ZSg](https://youtu.be/buebfHu0ZSg)
+**视频演示:** [https://www.youtube.com/watch?v=vE5VrxtTB-Y](https://www.youtube.com/watch?v=vE5VrxtTB-Y)
 
 **支持的常见本地音频格式:** MP3、M4A、WAV 和 FLAC 🎧
 
