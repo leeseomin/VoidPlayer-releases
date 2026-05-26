@@ -65,7 +65,7 @@ const modes = [
         <h1 id="hero-title">Void Player</h1>
         <p class="tagline">
           A lightweight, local-first music player for macOS with expressive UI modes and
-          Apple-notarized releases.
+          Apple-notarized releases.<br />No accounts, no telemetry.
         </p>
         <p class="supporting-note">
           A macOS-only player for enjoying local music files in a clean, focused library.
@@ -205,7 +205,7 @@ h1 {
 .tagline {
   max-width: 620px;
   margin-bottom: 16px;
-  font-size: clamp(22px, 3.1vw, 38px);
+  font-size: clamp(16px, 2vw, 24px);
   font-weight: 720;
   line-height: 1.04;
 }
@@ -213,9 +213,9 @@ h1 {
 .supporting-note {
   max-width: 540px;
   margin-bottom: 26px;
-  color: #5b5b54;
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: clamp(16px, 2vw, 24px);
+  font-weight: 720;
+  line-height: 1.04;
 }
 
 .hero-actions {
