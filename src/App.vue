@@ -73,7 +73,6 @@ const modes = [
     </div>
     <section class="hero-section" aria-labelledby="hero-title">
       <div class="hero-copy">
-        <p class="release-label">macOS release page</p>
         <h1 id="hero-title">Void Player</h1>
         <p class="tagline">
           A lightweight, local-first music player for macOS with expressive UI modes and
